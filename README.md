@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tokiwa-17?theme=THEME_NAME radical)](https://github.com/Tokiwa-17/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tokiwa-17?theme=radical)](https://github.com/Tokiwa-17/github-readme-stats)
 
 <!--
 **Tokiwa-17/Tokiwa-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
