@@ -21,7 +21,7 @@
 
 ### ⭐️ &nbsp;Github Star
 
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tokiwa-17&count_private=true&show_icons=true"/>
+![](https://raw.githubusercontent.com/Tokiwa-17/Tokiwa-17/main/assets/github-contribution-grid-snake.svg)              
 
 
 ### 🛠 &nbsp;Tech Stack
