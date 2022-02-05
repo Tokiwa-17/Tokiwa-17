@@ -17,11 +17,11 @@
 
 </pre> 
 
-<img width="100%" alt="game gif" src="https://qny.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+![](https://raw.githubusercontent.com/Tokiwa-17/Tokiwa-17/main/assets/github-contribution-grid-snake.svg)              
+
 
 ### ⭐️ &nbsp;Github Star
 
-![](https://raw.githubusercontent.com/Tokiwa-17/Tokiwa-17/main/assets/github-contribution-grid-snake.svg)              
 
 
 ### 🛠 &nbsp;Tech Stack
