@@ -13,7 +13,7 @@
      
 <strong>Hi, I am longfei Yun!👋 </strong>
 
-<strong>A full stack developer from China🇨🇳. </strong>
+<strong>A junior student from software school, Tsinghua University.</strong>
 
 </pre> 
 
