@@ -22,7 +22,8 @@
 
 ### ⭐️ &nbsp;Github Star
 
-
+![Tokiwa-17's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tokiwa-17&count_private=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Tokiwa-17&layout=compact&count_private=true&theme=dark)
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
