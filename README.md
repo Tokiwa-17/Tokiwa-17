@@ -16,9 +16,7 @@
 <strong>A junior student from software school, Tsinghua University.</strong>
 
 </pre> 
-
-![](https://raw.githubusercontent.com/Tokiwa-17/Tokiwa-17/main/assets/github-contribution-grid-snake.svg)          
-
+     
 
 ### ⭐️ &nbsp;Github Star
 
